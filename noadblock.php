@@ -3,7 +3,7 @@
 Plugin Name: NoAdblock Nice Message
 Plugin URI: http://pedroventura.es/TjVFZ6
 Description: This plugin shows a friendly message to the users with any adblock extension on their browser. The plugin just suggests to disable the adblock for your blog with a flyout box.
-Version: 1.1
+Version: 1.2
 Author: Pedro Ventura
 Author URI: https://www.pedroventura.com
 License: GPL2
