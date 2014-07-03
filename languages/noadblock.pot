@@ -17,6 +17,6 @@ msgid "Adblock is actived!"
 msgstr ""
 
 #: noadblock.php:28
-msgid "This blog helps you to solve your doubts and keeps you informed. <br />Please,<b> consider to disable the adblock <u>in this site</u></b>!<br /> Thank You!"
+msgid "This blog helps you to solve your doubts and keeps you informed. <br />Please,<b> consider to disable the adblock in this site</b>!<br /> Thank You!"
 msgstr ""
 
